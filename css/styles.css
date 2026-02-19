@@ -236,11 +236,11 @@ sup {
 }
 
 a {
-  color: var(--bs-link-color);
+  color: #fff;
   text-decoration: underline;
 }
 a:hover {
-  color: var(--bs-link-hover-color);
+  color: #fff;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -10868,7 +10868,7 @@ p {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #212529;
+  background-color: #000;
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
@@ -10937,7 +10937,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/header-bg.png");
+  background-color: #000;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center center;
